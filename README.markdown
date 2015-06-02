@@ -37,15 +37,15 @@
  - Arms of binary rewards are implemented.
 
 + Policies:
- - Multiplay Thompson sampling (MP-TS) [4]
- - Multiplay extension of KL-UCB [2] (MP-KL-UCB)
+ - Multiplay Thompson sampling (MP-TS) [1]
+ - Multiplay KL-UCB (MP-KL-UCB) [2]
  - CUCB [3]
  - Exp3.M [4]
      
 <a name="environment"></a>
 
 ## 2\. Environment
-  This program supports a linux/GNU C++ environment. We do not check windows/MacOSX.
+  This program supports a linux/GNU C++ environment. We do not check the compatibility with windows/MacOSX.
   
   More formally, this program depends on:
   - C++0x: modern C++ compiler (preferably GNU C++ (g++))
