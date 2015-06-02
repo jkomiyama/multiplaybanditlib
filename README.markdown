@@ -1,4 +1,4 @@
-    BanditLib: a simple multi-armed bandit library 
+    BanditLib: a simple multi-armed bandit library: multiplay ver.
     
     .-. .-')     ('-.         .-') _  _ .-') _            .-') _                   .-. .-')   
     \  ( OO )   ( OO ).-.    ( OO ) )( (  OO) )          (  OO) )                  \  ( OO )  
