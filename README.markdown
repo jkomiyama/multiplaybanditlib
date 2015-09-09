@@ -87,3 +87,6 @@
   Junpei Komiyama (junpei.komiyama atmark gmail.com)
 
   This software is released under the MIT License, see LICENSE.txt.
+
+  Please acknowledge its use with a citation: 
++  Junpei Komiyama, Junya Honda, Hiroshi Nakagawa. Optimal Regret Analysis of Thompson Sampling in Stochastic Multi-armed Bandit Problem with Multiple Plays. In Proceedings of the 32nd International Conference on Machine Learning (ICML 2015), pages 1152-1161, July 2015
